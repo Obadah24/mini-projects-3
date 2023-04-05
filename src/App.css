@@ -1,0 +1,62 @@
+/* DessertsLists */
+.main{
+  width: 900px;
+  min-height: 400px;
+  background-color: rgb(73, 94, 87);
+  padding: 32px;
+  border: 1px solid #333333;
+  border-radius: 16px;
+  margin: 32px auto;
+  box-shadow: 2px 0 12px #f4ce14;
+  text-align: center;
+}
+.article{
+  max-width: 100%;
+  min-height: fit-content;
+  background-color: #edefee;
+  border-radius: 16px;
+}
+.header{
+  font-size: 40px;
+  font-weight: bold;
+  padding: 16px;
+}
+ul{
+  list-style: none;
+  
+}
+
+.span-color{
+  color: rgb(73, 94, 87);
+  margin: 8px 0;
+}
+.span{
+  font-size: 20px;
+  font-weight: bold;
+}
+/* LivesOrders */
+.Box {
+  width: 800px;
+  padding: 1rem;
+  margin: 10vh auto;
+  border: 1px solid black;
+  background:#edefee;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Row {
+  width: 400px;
+  height: 80px;
+  background-color: rgb(173, 173, 31);
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  row-gap: 1rem;
+  margin: 10vh auto;
+  border-radius: 1rem;
+  border: 1px solid black;
+}
